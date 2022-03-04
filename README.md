@@ -2,7 +2,10 @@
 A Web site to manage ICT Fest related work like registration for various program (Hackathon, programming contest etc) and Dash board for Both Admin and Participant.
 
 
-1.Downloaded/cloned source code
+1.Downloaded/cloned source code 
+
 2.cd your-destination-folder
+
 3.npm install 
+
 4.npm start 
